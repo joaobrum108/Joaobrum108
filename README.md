@@ -1,6 +1,6 @@
 # 👨🏻‍💻 João Pedro Brum
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Seja bem-vindo! Meu nome é João Pedro Brum, tenho 22 anos e sou natural de Minas Gerais. Estou concluindo a graduação em Análise e Desenvolvimento de Sistemas pela Faculdade ENIAC, com previsão de término em novembro de 2025.
 
